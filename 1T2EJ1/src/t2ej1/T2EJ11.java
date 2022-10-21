@@ -18,7 +18,7 @@ public class T2EJ11 {
 
 		// Comando para introducir el primer número
 		num = sc.nextInt();
-
+		//
 		uni = num % 10;
 		dec = num / 10;
 		cent = num / 100;
